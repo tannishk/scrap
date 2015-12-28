@@ -85,20 +85,6 @@ public class index {
 		 System.out.println();
 	 }
 	 
-	/* Request.Post("http://localhost:8090/jobs?appName=Test40&classPath=fr.aid.cim.spark.JavaWord&sync=true&timeout=1000000000")
-	 .execute().returnContent();
-	 
-	 GitHubClient client = new GitHubClient();
-	 client.setCredentials("tannishk", "sharma123");
-	 
 
-	 RepositoryService service = new RepositoryService();
-	 service.getClient().setCredentials("tannishk", "sharma123");
-	 String abcd[] ={"cahuja1992"};
-	 for(String a:abcd)
-	 {
-	 for (Repository repo : service.getRepositories(a))
-		  System.out.println(repo.getName() + " Watchers: " + repo.getWatchers());
-	 }*/
  }
 }
